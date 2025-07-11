@@ -958,7 +958,7 @@ url: "https://soundcloud.com/creide13/field-battle",
 answer: "The Legend of Zelda: Breath of the Wild - Field Battle",
 },
 {
-url: "https://soundcloud.com/marcinprzybylowicz/the-trail-feat-percival",
+url: "https://soundcloud.com/rhinx-653648807/libra-creature-of-night-elden?si=fd92f904c15d412d9400c8aaf3c03586&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing#t=0%3A43",
 answer: "The Witcher III - The Trail",
 },
 {
@@ -978,8 +978,8 @@ url: "https://soundcloud.com/yeswekyaxo3v/good-egg-galaxy-super-mario-galaxy",
 answer: "Super Mario Galaxy - Good Egg Galaxy",
 },
 {
-url: "https://soundcloud.com/crywolf822/the-elder-scrolls-v-skyrim-ost-ancient-stones",
-answer: "TES V Skyrim - Ancient Stones",
+url: "https://soundcloud.com/toxalora/divine-beast-dancing-lion",
+answer: "Elden Ring (Shadow Of The Erdtree) - Divine Beast Dancing Lion",
 },
 {
 url: "https://soundcloud.com/concernedape/the-stardrop-saloon",
