@@ -958,7 +958,7 @@ url: "https://soundcloud.com/creide13/field-battle",
 answer: "The Legend of Zelda: Breath of the Wild - Field Battle",
 },
 {
-url: "https://soundcloud.com/rhinx-653648807/libra-creature-of-night-elden?si=fd92f904c15d412d9400c8aaf3c03586&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing#t=0%3A43",
+url: "https://on.soundcloud.com/wBhXCOo1WiGveqwJF5",
 answer: "The Witcher III - The Trail",
 },
 {
