@@ -958,7 +958,7 @@ url: "https://soundcloud.com/creide13/field-battle",
 answer: "The Legend of Zelda: Breath of the Wild - Field Battle",
 },
 {
-url: "https://on.soundcloud.com/wBhXCOo1WiGveqwJF5",
+url: "https://soundcloud.com/marcinprzybylowicz/the-trail-feat-percival",
 answer: "The Witcher III - The Trail",
 },
 {
@@ -998,8 +998,8 @@ url: "https://soundcloud.com/clarkaboud/the-beyond",
 answer: "Slay the Spire - The Beyond",
 },
 {
-url: "https://soundcloud.com/tristen-onate/superliminal-ost-hopeful-main",
-answer: "Superliminal - Hopeful",
+url: "https://soundcloud.com/rhinx-653648807/libra-creature-of-night-elden",
+answer: "Elden Ring: Nightreign - Libra, Creature of Night",
 },
 {
 url: "https://soundcloud.com/gris-ost/gris-ost-gris-pt-1",
@@ -1074,8 +1074,8 @@ url: "https://soundcloud.com/brandon-sablan-866369341/see-you-at-the-top-by-mark
 answer: "A Short Hike - See You At The Top",
 },
 {
-url: "https://soundcloud.com/user-580544631/diablo-3-i-am-justice",
-answer: "Diablo 3 - I Am Justice",
+url: "https://soundcloud.com/egg-658980604/elden-ring-shadow-of-the-1",
+answer: "Elden (Shadow of the Erdtree) - Rellana, Twin Moon Knight",
 },
 {
 url: "https://soundcloud.com/user-272592510/mario-kart-wii-toads-factory",
@@ -1114,8 +1114,8 @@ url: "https://soundcloud.com/cosette-kamin-325535106/nancy-drew-sea-of-darkness"
 answer: "Nancy Drew: Sea of Darkness - Northern Lights",
 },
 {
-url: "https://soundcloud.com/user-55323611-230701281/12-baldurs-gate-3-ost-sixteen",
-answer: "Baldur's Gate 3 - Sixteen Strikes",
+url: "https://soundcloud.com/toxalora/divine-beast-dancing-lion",
+answer: "Elden Ring (Shadow Of The Erdtree) - Divine Beast Dancing Lion",
 },
 {
 url: "https://soundcloud.com/creide13/korok-forest-day",
@@ -1190,8 +1190,8 @@ url: "https://soundcloud.com/cybeast_gregar21/the_troupe_master_grimm_hollow_kni
 answer: "Hollow Knight - The Grimm Troupe",
 },
 {
-url: "https://soundcloud.com/aigis20/3-will-the-circle-be-unbroken",
-answer: "Bioshock Infinite - Will The Circle Be Unbroken",
+url: "https://soundcloud.com/saba-malik-8/ceasar",
+answer: "The Hunger Games - The Caesar Flickerman Show",
 },
 {
 url: "https://soundcloud.com/michaelmccannmusic/xcom-eu-ready-for-battle",
