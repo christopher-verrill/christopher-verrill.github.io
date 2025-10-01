@@ -1286,240 +1286,12 @@ url: "https://soundcloud.com/user-19207797/animal-crossing-city-folk-5am-1",
 answer: "Animal Crossing: City Folk - 1PM",
 },
 {
-url: "https://soundcloud.com/gustafgrefberg-music/wake-up-call-feat-kristofer",
-answer: "It Takes Two - Wake-up Call",
-},
-{
-url: "https://soundcloud.com/creide13/hateno-village-day",
-answer: "The Legend of Zelda: Breath of the Wild - Hateno Village (Day)",
-},
-{
-url: "https://soundcloud.com/user-55323611-230701281/39-baldurs-gate-3-ost-down-by",
-answer: "Baldur's Gate 3 - Down By The River",
-},
-{
-url: "https://soundcloud.com/user-125119804/night-in-the-woods-die-anywhere-else",
-answer: "Night in the Woods - Die Anywhere Else",
-},
-{
-url: "https://soundcloud.com/user-272592510/mario-kart-wii-rainbow-road",
-answer: "Mario Kart Wii - Rainbow Road",
-},
-{
-url: "https://soundcloud.com/crywolf822/the-elder-scrolls-v-skyrim-ost-the-bannered-mare",
-answer: "TES V Skyrim - The Bannered Mare",
-},
-{
-url: "https://soundcloud.com/user-272592510/mario-kart-wii-dry-dry-ruins",
-answer: "Mario Kart Wii - Dry Dry Ruins",
-},
-{
-url: "https://soundcloud.com/robotic-duck/prairie",
-answer: "Nancy Drew: Trail of the Twister - Prairie",
-},
-{
-url: "https://soundcloud.com/matharax/house-building-theme",
-answer: "Red Dead Redemption 2 - House Building Theme",
-},
-{
-url: "https://soundcloud.com/clarkaboud/meet-the-merchant",
-answer: "Slay the Spire - Meet the Merchant",
-},
-{
-url: "https://soundcloud.com/user-454057667/baldurs-gate-3-ost-best-of-the-best-raphaels-final-act",
-answer: "Baldur's Gate 3 - Raphael's Final Act",
-},
-{
-url: "https://soundcloud.com/user-829882792/route-203-night",
-answer: "Pokemon Platinum - Route 203 (Night)",
-},
-{
-url: "https://soundcloud.com/minecraftwizards/08-c418-minecraft",
-answer: "Minecraft - Minecraft",
-},
-{
-url: "https://soundcloud.com/the-sims-4-music/get-to-work-soundtrack-1",
-answer: "The Sims 4 - Get To Work",
-},
-{
-url: "https://soundcloud.com/thomas-regin/nancy-drew-the-deadly-device-2",
-answer: "Nancy Drew: The Deadly Device - Science",
-},
-{
-url: "https://soundcloud.com/kristofereng/jukebox-memories",
-answer: "It Takes Two - Jukebox Memories",
-},
-{
-url: "https://soundcloud.com/user-272592510/mario-kart-wii-toads-factory",
-answer: "Mario Kart Wii - Toad Factory",
-},
-{
-url: "https://soundcloud.com/cosette-kamin-325535106/nancy-drew-sea-of-darkness-resolve",
-answer: "Nancy Drew: Sea of Darkness - Resolve",
-},
-{
-url: "https://soundcloud.com/user-580544631/diablo-3-a-new-dawn",
-answer: "Diablo 3 - A New Dawn",
-},
-{
-url: "https://soundcloud.com/zane-maserati/bath-time-nintendogs-ost",
-answer: "Nintendogs - Bath Time",
-},
-{
-url: "https://soundcloud.com/creide13/goron-city-day",
-answer: "The Legend of Zelda: Breath of the Wild - Goron City (Day)",
-},
-{
-url: "https://soundcloud.com/kevinrios1342/2pm-animal-crossing-new",
-answer: "Animal Crossing: New Horizons - 2PM",
-},
-{
-url: "https://soundcloud.com/dappa-fuster/new-donk-city-daytime-metro",
-answer: "Super Mario Odyssey - New Donk City",
-},
-{
-url: "https://soundcloud.com/8-bit-generation/super-mario-bros-3-underwater",
-answer: "Super Mario Bros. 3 - Underwater Theme",
-},
-{
-url: "https://soundcloud.com/user-224595253-38436290/god-of-war-2018-ost-helheim",
-answer: "God of War - Helheim",
-},
-{
-url: "https://soundcloud.com/cosette-kamin-325535106/nancy-drew-sea-of-darkness-2",
-answer: "Nancy Drew: Sea of Darkness - Preparations",
-},
-{
-url: "https://soundcloud.com/niddows/stardew-valley-ost-distant",
-answer: "Stardew Valley - Distant Banjo",
-},
-{
-url: "https://soundcloud.com/duckoliumuploads2/balatro-ost-boss-blind",
-answer: "Balatro - Boss Blind",
-},
-{
-url: "https://soundcloud.com/tucker-morris-951315530/hades-god-of-the-dead",
-answer: "Hades - God Of The Dead",
-},
-{
-url: "https://soundcloud.com/kunning-fox/back-to-unova-a-tight-spot-during-battle",
-answer: "Pokemon Black and White - A Tight Spot During Battle!",
-},
-{
-url: "https://soundcloud.com/subnautica/abandon-ship",
-answer: "Subnautica - Abandon Ship",
-},
-{
-url: "https://soundcloud.com/user-580544631/diablo-3-i-am-justice",
-answer: "Diablo 3 - I Am Justice",
-},
-{
-url: "https://soundcloud.com/user-675036643/pokemon-heartgold-and-8",
-answer: "Pokemon HeartGold and SoulSilver - Violet City",
-},
-{
-url: "https://soundcloud.com/zaramoth/hades-the-painful-way",
-answer: "Hades - The Painful Way",
-},
-{
-url: "https://soundcloud.com/goldielou2/enter-hallownest",
-answer: "Hollow Knight - Enter Hallownest",
-},
-{
-url: "https://soundcloud.com/mellyrau/main-theme-animal-crossing-wild-world",
-answer: "Animal Crossing: Wild World - Title Screen",
-},
-{
-url: "https://soundcloud.com/kevinrios1342/9am-animal-crossing-new",
-answer: "Animal Crossing: New Horizons - 9AM",
-},
-{
-url: "https://soundcloud.com/user-125119804/night-in-the-woods-town-rainy",
-answer: "Night in the Woods - Town (Rainy)",
-},
-{
-url: "https://soundcloud.com/user-674261416/out-of-the-cold",
-answer: "TES V Skyrim - Out of the Cold",
-},
-{
-url: "https://soundcloud.com/user-272592510/mario-kart-wii-warios-gold-mine",
-answer: "Mario Kart Wii - Wario's Gold Mine",
-},
-{
-url: "https://soundcloud.com/user-89061482/a-frog-detective-dan-golding",
-answer: "Frog Detective 1 - A Frog Detective",
-},
-{
-url: "https://soundcloud.com/user-829882792/battle-champion",
-answer: "Pokemon Platinum - Battle! Champion Cynthia",
-},
-{
-url: "https://soundcloud.com/zaramoth/hades-final-expense",
-answer: "Hades - Final Expense",
-},
-{
-url: "https://soundcloud.com/user-675036643/super-mario-galaxy-ost",
-answer: "Super Mario Galaxy - Overture",
-},
-{
-url: "https://soundcloud.com/squareenixost/elden-ring-flying-dragon-agheel-ost",
-answer: "Elden Ring - Limgrave",
-},
-{
-url: "https://soundcloud.com/hogwartslegacy/peter-murray-hogwarts-legacy-4",
-answer: "Hogwarts Legacy - Outside the Castle Walls",
-},
-{
-url: "https://soundcloud.com/super-smash-bros-anthology-173456116/13-jungle-level-ver-2-brawl",
-answer: "Super Smash Bros. Brawl - Jungle Level Ver.2",
-},
-{
-url: "https://soundcloud.com/poorumusic/animal-crossing-wild-world-ost-7-am-hourly-music",
-answer: "Animal Crossing: Wild World - 7AM",
-},
-{
-url: "https://soundcloud.com/megawoofy/fossil-falls-super-mario",
-answer: "Super Mario Odyssey - Fossil Falls",
-},
-{
-url: "https://soundcloud.com/elijah-maynard-alvarina/sets/cod4-main-theme-song",
-answer: "Call of Duty 4: Modern Warfare - Main Theme",
-},
-{
-url: "https://soundcloud.com/kunning-fox/back-to-unova-a-tight-spot-during-battle",
-answer: "Pokemon Black and White - A Tight Spot During Battle!",
-},
-{
-url: "https://soundcloud.com/user-153780178/wedding-celebration",
-answer: "Stardew Valley - Wedding Celebration",
-},
-{
-url: "https://soundcloud.com/kevinrios1342/9am-animal-crossing-new",
-answer: "Animal Crossing: New Horizons - 9AM",
-},
-{
-url: "https://soundcloud.com/sanne-jonkers/04-the-train-ost-the-hunger",
-answer: "The Hunger Games - The Train",
-},
-{
-url: "https://soundcloud.com/supergiant-games/lament-of-orpheus",
-answer: "Hades - Lament of Orpheus",
-},
-{
-url: "https://soundcloud.com/ryan-hughes-419361153/hollow-knight-ost-city-of",
-answer: "Hollow Knight - City of Tears",
-},
-{
-url: "https://soundcloud.com/kevinrios1342/2pm-animal-crossing-new",
-answer: "Animal Crossing: New Horizons - 2PM",
+url: "https://soundcloud.com/turkeybaconclub/35-trobbio-35",
+answer: "Hollow Knight: Silksong - Trobbio",
 },
 {
 url: "https://soundcloud.com/cj-bellah/tormented-trobbio-hollow-knight-silksong-ost",
 answer: "Hollow Knight: Silksong - Tormented Trobbio",
-},
-{
-url: "https://soundcloud.com/turkeybaconclub/35-trobbio-35",
-answer: "Hollow Knight: Silksong - Trobbio",
 },
 {
 url: "https://soundcloud.com/cj-bellah/phantom-hollow-knight-silksong-ost",
@@ -1722,10 +1494,6 @@ url: "https://soundcloud.com/zaramoth/hades-no-escape",
 answer: "Hades - No Escape",
 },
 {
-url: "https://soundcloud.com/user-224595253-38436290/god-of-war",
-answer: "God of War - God of War",
-},
-{
 url: "https://soundcloud.com/robotic-duck/gossip",
 answer: "Nancy Drew: Warnings at Waverly Academy - Gossip",
 },
@@ -1736,10 +1504,6 @@ answer: "Super Mario Galaxy - Gusty Garden Galaxy",
 {
 url: "https://soundcloud.com/minecraft-soundtrack/cat?in=riveromarcos/sets/e",
 answer: "Minecraft - Cat",
-},
-{
-url: "https://soundcloud.com/echomusic-yt/the-realm-of-orzammar",
-answer: "Dragon Age: Origins - The Realm of Orzammar",
 },
 {
 url: "https://soundcloud.com/dylan-dylan-298845181/battlerock-galaxy-super-mario-galaxy",
@@ -1774,14 +1538,6 @@ url: "https://soundcloud.com/robotic-duck/swing",
 answer: "Nancy Drew: The Secret of Shadow Ranch - Swing",
 },
 {
-url: "https://soundcloud.com/dappafuster-2/run-jump-throw-1-super-mario-odyssey-soundtrack",
-answer: "Super Mario Odyssey - Run, Jump, Throw! 1",
-},
-{
-url: "https://soundcloud.com/hogwartslegacy/j-scott-rakozy-617165563",
-answer: "Hogwarts Legacy - Potions Class",
-},
-{
 url: "https://soundcloud.com/heyimspike/overwatch-ost-hollywood",
 answer: "Overwatch - Hollywood",
 },
@@ -1810,10 +1566,6 @@ url: "https://soundcloud.com/echomusic-yt/the-realm-of-orzammar",
 answer: "Dragon Age: Origins - The Realm of Orzammar",
 },
 {
-url: "https://soundcloud.com/super-smash-bros-anthology-173456116/13-jungle-level-ver-2-brawl",
-answer: "Super Smash Bros. Brawl - Jungle Level Ver.2",
-},
-{
 url: "https://soundcloud.com/user-272592510/mario-kart-wii-warios-gold-mine",
 answer: "Mario Kart Wii - Wario's Gold Mine",
 },
@@ -1830,8 +1582,8 @@ url: "https://soundcloud.com/user-272592510/mario-kart-wii-funky-stadium",
 answer: "Mario Kart Wii - Funky Stadium",
 },
 {
-url: "https://soundcloud.com/heyimspike/overwatch-ost-route-66",
-answer: "Overwatch - Route 66",
+url: "https://soundcloud.com/user-148055581/cogwork-core-hollow-knight-silksong-ost",
+answer: "Hollow Knight: Silksong - Cogwork Core",
 },
 {
 url: "https://soundcloud.com/user-153780178/fall-the-smell-of-mushroom",
@@ -1841,8 +1593,125 @@ answer: "Stardew Valley - Fall (The Smell of Mushroom)",
 url: "https://soundcloud.com/user-272592510/mario-kart-wii-moo-moo-meadows",
 answer: "Mario Kart Wii - Moo Moo Meadows",
 },
-
-
-  
+{
+url: "https://soundcloud.com/gustafgrefberg-music/wake-up-call-feat-kristofer",
+answer: "It Takes Two - Wake-up Call",
+},
+{
+url: "https://soundcloud.com/creide13/hateno-village-day",
+answer: "The Legend of Zelda: Breath of the Wild - Hateno Village (Day)",
+},
+{
+url: "https://soundcloud.com/user-125119804/night-in-the-woods-die-anywhere-else",
+answer: "Night in the Woods - Die Anywhere Else",
+},
+{
+url: "https://soundcloud.com/user-272592510/mario-kart-wii-rainbow-road",
+answer: "Mario Kart Wii - Rainbow Road",
+},
+{
+url: "https://soundcloud.com/crywolf822/the-elder-scrolls-v-skyrim-ost-the-bannered-mare",
+answer: "Hollow Knight: Silksong - Cogwork Dancers",
+},
+{
+url: "https://soundcloud.com/matharax/house-building-theme",
+answer: "Red Dead Redemption 2 - House Building Theme",
+},
+{
+url: "https://soundcloud.com/user-454057667/baldurs-gate-3-ost-best-of-the-best-raphaels-final-act",
+answer: "Baldur's Gate 3 - Raphael's Final Act",
+},
+{
+url: "https://soundcloud.com/user-829882792/route-203-night",
+answer: "Pokemon Platinum - Route 203 (Night)",
+},
+{
+url: "https://soundcloud.com/minecraftwizards/08-c418-minecraft",
+answer: "Minecraft - Minecraft",
+},
+{
+url: "https://soundcloud.com/thomas-regin/nancy-drew-the-deadly-device-2",
+answer: "Nancy Drew: The Deadly Device - Science",
+},
+{
+url: "https://soundcloud.com/kristofereng/jukebox-memories",
+answer: "It Takes Two - Jukebox Memories",
+},
+{
+url: "https://soundcloud.com/user-272592510/mario-kart-wii-toads-factory",
+answer: "Mario Kart Wii - Toad Factory",
+},
+{
+url: "https://soundcloud.com/turkeybaconclub/15-widow-6",
+answer: "Hollow Knight: Silksong - Widow",
+},
+{
+url: "https://soundcloud.com/zane-maserati/bath-time-nintendogs-ost",
+answer: "Nintendogs - Bath Time",
+},
+{
+url: "https://soundcloud.com/creide13/goron-city-day",
+answer: "The Legend of Zelda: Breath of the Wild - Goron City (Day)",
+},
+{
+url: "https://soundcloud.com/game-of-thrones-songs/the-rains-of-castamere-extended-game-of-thrones?in=maged-adel-11",
+answer: "Game of Thrones - The Rains of Castamere",
+},
+{
+url: "https://soundcloud.com/kevinrios1342/2pm-animal-crossing-new",
+answer: "Animal Crossing: New Horizons - 2PM",
+},
+{
+url: "https://soundcloud.com/dappa-fuster/new-donk-city-daytime-metro",
+answer: "Super Mario Odyssey - New Donk City",
+},
+{
+url: "https://soundcloud.com/8-bit-generation/super-mario-bros-3-underwater",
+answer: "Super Mario Bros. 3 - Underwater Theme",
+},
+{
+url: "https://soundcloud.com/duckoliumuploads2/balatro-ost-boss-blind",
+answer: "Balatro - Boss Blind",
+},
+{
+url: "https://soundcloud.com/tucker-morris-951315530/hades-god-of-the-dead",
+answer: "Hades - God Of The Dead",
+},
+{
+url: "https://soundcloud.com/kunning-fox/back-to-unova-a-tight-spot-during-battle",
+answer: "Pokemon Black and White - A Tight Spot During Battle!",
+},
+{
+url: "https://soundcloud.com/subnautica/abandon-ship",
+answer: "Subnautica - Abandon Ship",
+},
+{
+url: "https://soundcloud.com/user-272592510/mario-kart-wii-warios-gold-mine",
+answer: "Mario Kart Wii - Wario's Gold Mine",
+},
+{
+url: "https://soundcloud.com/user-89061482/a-frog-detective-dan-golding",
+answer: "Frog Detective 1 - A Frog Detective",
+},
+{
+url: "https://soundcloud.com/user-829882792/battle-champion",
+answer: "Pokemon Platinum - Battle! Champion Cynthia",
+},
+{
+url: "https://soundcloud.com/zaramoth/hades-final-expense",
+answer: "Hades - Final Expense",
+},
+{
+url: "https://soundcloud.com/squareenixost/elden-ring-flying-dragon-agheel-ost",
+answer: "Elden Ring - Limgrave",
+},
+{
+url: "https://soundcloud.com/sanne-jonkers/04-the-train-ost-the-hunger",
+answer: "The Hunger Games - The Train",
+},
+{
+url: "https://soundcloud.com/easportscollegefootballmarchingband/wake-forest-university-o-heres",
+answer: "It's A Secret",
+},
   
 ];
