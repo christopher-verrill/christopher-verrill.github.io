@@ -1514,24 +1514,32 @@ url: "https://soundcloud.com/kevinrios1342/2pm-animal-crossing-new",
 answer: "Animal Crossing: New Horizons - 2PM",
 },
 {
-url: "https://soundcloud.com/alexctba/dark-souls-gwyn-lord-of-cinder",
+url: "https://soundcloud.com/cj-bellah/tormented-trobbio-hollow-knight-silksong-ost",
+answer: "Hollow Knight: Silksong - Tormented Trobbio",
+},
+{
+url: "https://soundcloud.com/turkeybaconclub/35-trobbio-35",
+answer: "Hollow Knight: Silksong - Trobbio",
+},
+{
+url: "https://soundcloud.com/cj-bellah/phantom-hollow-knight-silksong-ost",
 answer: "Dark Souls - Gwyn, Lord of Cinder",
 },
 {
-url: "https://soundcloud.com/user-272592510/mario-kart-wii-mushroom-gorge",
-answer: "Mario Kart Wii - Mushroom Gorge",
+url: "https://soundcloud.com/alexctba/dark-souls-gwyn-lord-of-cinder",
+answer: "Hollow Knight: Silksong - Phantom",
 },
 {
 url: "https://soundcloud.com/user-483045360/the-stanley-parable-ost-1",
 answer: "The Stanley Parable - Introducing Stanley",
 },
 {
-url: "https://soundcloud.com/carlos-assump-o-1/08-baldurs-gate-3-ost-harpy",
-answer: "Baldur's Gate 3 - Harpy Song",
+url: "https://soundcloud.com/imdedlol/cogwork-dancers-hollow-knight-silk-song-phase-3",
+answer: "Hollow Knight: Silksong: Cogwork Dancers, Phase 3",
 },
 {
-url: "https://soundcloud.com/lliberopoulou/fallout-4-ost-honor-steel-brotherhood-of-steel-music",
-answer: "Fallout 4 - Honor & Steel",
+url: "https://soundcloud.com/carlos-assump-o-1/08-baldurs-gate-3-ost-harpy",
+answer: "Baldur's Gate 3 - Harpy Song",
 },
 {
 url: "https://soundcloud.com/squareenixost/astel-naturalborn-of-the-void-elden-ring-ost",
@@ -1554,16 +1562,8 @@ url: "https://soundcloud.com/samuel-ferguson-781314566/nancy-drew-treasure-in-th
 answer: "Nancy Drew: Treasure in the Royal Tower - Hallway",
 },
 {
-url: "https://soundcloud.com/user-713814240-626988522/lego-star-wars-music-negotiations-calm",
-answer: "Lego Star Wars: The Complete Saga - Negotiations (Calm)",
-},
-{
-url: "https://soundcloud.com/theyoungfolks-1/super-smash-bros-brawl-main",
-answer: "Super Smash Bros. Brawl - Main Theme",
-},
-{
-url: "https://soundcloud.com/user-272592510/mario-kart-wii-n64-dks-jungle-parkway-1",
-answer: "Mario Kart Wii - N64 DK's Jungle Parkway",
+url: "https://soundcloud.com/user-148055581/cogwork-core-hollow-knight-silksong-ost",
+answer: "Hollow Knight: Silksong - Cogwork Core",
 },
 {
 url: "https://soundcloud.com/user-829882792/opening",
@@ -1571,11 +1571,7 @@ answer: "Pokemon Platinum - Opening",
 },
 {
 url: "https://soundcloud.com/pkmn-black-and-white/battle-legendary-pokemon",
-answer: "Pokemon Black and White - Battle! (Legendary Pokemon)",
-},
-{
-url: "https://soundcloud.com/nova-infinity-neutron/marvels-spider-man-2018-ps4-2",
-answer: "Spider-Man - Final Boss Phase 2",
+answer: "Hollow Knight: Silksong - Sherma's Song",
 },
 {
 url: "https://soundcloud.com/robotic-duck/lands",
@@ -1586,8 +1582,8 @@ url: "https://soundcloud.com/robotic-duck/drive",
 answer: "Nancy Drew: The Secret of Shadow Ranch - Drive",
 },
 {
-url: "https://soundcloud.com/goldielou2/rime-ost-the-island",
-answer: "Rime - The Island",
+url: "https://soundcloud.com/user-160076160/bg3-nightsong-bgm",
+answer: "Baldur's Gate 3 - The Nightsong",
 },
 {
 url: "https://soundcloud.com/user-153780178/wedding-celebration",
@@ -1602,28 +1598,12 @@ url: "https://soundcloud.com/user-153780178/fall-the-smell-of-mushroom",
 answer: "Stardew Valley - Fall (The Smell of Mushroom)",
 },
 {
-url: "https://soundcloud.com/user-674261416/the-streets-of-whiterun",
-answer: "TES V Skyrim - The Streets of Whiterun",
-},
-{
-url: "https://soundcloud.com/derekecycle/the-cavalry-breaks-through",
-answer: "Horizon Zero Dawn - The Cavalry Breaks Through",
+url: "https://soundcloud.com/videogamescores/call-of-the-sea-te-reo-o-te-rai",
+answer: "Call of the Sea - Te Reo O Te R'ai",
 },
 {
 url: "https://soundcloud.com/user409121565/mario-kart-ds-ost-cheep-cheep",
 answer: "Mario Kart DS - Cheep Cheep Beach",
-},
-{
-url: "https://soundcloud.com/whats-upcoming/blood-feuds-ancient-and-modern-rdr2-ost-braithwaite-manner-fight",
-answer: "Red Dead Redemption 2 - Blood Feuds, Ancient And Modern",
-},
-{
-url: "https://soundcloud.com/robotic-duck/pigeon",
-answer: "Nancy Drew: The Phantom of Venice - Pigeon",
-},
-{
-url: "https://soundcloud.com/andrewprahlow/travelers",
-answer: "Outer Wilds - Travelers",
 },
 {
 url: "https://soundcloud.com/kristofereng/jukebox-memories",
@@ -1634,8 +1614,8 @@ url: "https://soundcloud.com/user-454057667/baldurs-gate-3-ost-best-of-the-best-
 answer: "Baldur's Gate 3 - Raphael's Final Act",
 },
 {
-url: "https://soundcloud.com/user-674261416/out-of-the-cold",
-answer: "TES V Skyrim - Out of the Cold",
+url: "https://soundcloud.com/irerpauce/way-back-home-bob-crosby-and-the-bobcats?in=dylan-kyle-380813602/sets/fallout-4-diamond-city-radio",
+answer: "Fallout IV Diamond City Radio - Bob Crosby - Way Back Home",
 },
 {
 url: "https://soundcloud.com/video-game-music/skyrim-soundtrack-dragonborn",
@@ -1654,8 +1634,8 @@ url: "https://soundcloud.com/javier-palma-410988154/dung-defender",
 answer: "Hollow Knight - Dung Defender",
 },
 {
-url: "https://soundcloud.com/moi19/metal-gear-solid-3-snake-eater",
-answer: "Metal Gear Solid 3 - Snake Eater",
+url: "https://soundcloud.com/gustafgrefberg-music/freedom-fighters?in=gustafgrefberg-music/sets/split-fiction-original",
+answer: "Split Fiction - Freedom Fighters",
 },
 {
 url: "https://soundcloud.com/a-white-769668191/a-dogs-theme",
@@ -1674,8 +1654,8 @@ url: "https://soundcloud.com/user-153780178/fun-festival",
 answer: "Stardew Valley - Fun Festival",
 },
 {
-url: "https://soundcloud.com/cosette-kamin-325535106/nancy-drew-sea-of-darkness-1",
-answer: "Nancy Drew: Sea of Darkness - Proud People",
+url: "https://soundcloud.com/ost-game-film/gta-v-welcome-to-los-santos",
+answer: "GTAV - Welcome To Los Santos",
 },
 {
 url: "https://soundcloud.com/user-451673384/brendan",
@@ -1686,8 +1666,8 @@ url: "https://soundcloud.com/zaramoth/hades-from-olympus",
 answer: "Hades - From Olympus",
 },
 {
-url: "https://soundcloud.com/user-55323611-230701281/39-baldurs-gate-3-ost-down-by",
-answer: "Baldur's Gate 3 - Down By The River",
+url: "https://soundcloud.com/laura-novarino/the-elder-scrolls-iv-oblivion-harvest-dawn",
+answer: "TES IV: Oblivion - Harvest Dawn",
 },
 {
 url: "https://soundcloud.com/elijah-maynard-alvarina/sets/cod4-main-theme-song",
@@ -1722,12 +1702,12 @@ url: "https://soundcloud.com/wellfuckthis/disco-elysium-red-rock-riviera-in-game
 answer: "Disco Elysium - Red Rock Riviera (Day)",
 },
 {
-url: "https://soundcloud.com/hogwartslegacy/j-scott-rakozy-617165563",
-answer: "Hogwarts Legacy - Potions Class",
+url: "https://soundcloud.com/kim-hackhyun/jeremy-soule-22-sunrise-of?in=keutone/sets/the-elder-scrolls-iv-oblivion",
+answer: "TES IV: Oblivion - Sunrise of Flutes",
 },
 {
-url: "https://soundcloud.com/poorumusic/animal-crossing-wild-world-ost-7-am-hourly-music",
-answer: "Animal Crossing: Wild World - 7AM",
+url: "https://soundcloud.com/giammarco-simonelli/the-ink-spots-i-don-t-want-to",
+answer: "Fallout IV Diamond City Radio - The Ink Spots - I Don't Want To Set The World On Fire",
 },
 {
 url: "https://soundcloud.com/creide13/hyrule-field-day",
@@ -1770,8 +1750,8 @@ url: "https://soundcloud.com/user-272592510/mario-kart-wii-chain-chomp-roulette"
 answer: "Mario Kart Wii - Chain Chomp Roulette",
 },
 {
-url: "https://soundcloud.com/user-142234781/neverwinter-nights-ost-forest-day-1",
-answer: "Neverwinter Nights - Forest Day 1",
+url: "https://soundcloud.com/minimas-2/lynda-carter-train-train",
+answer: "Fallout IV Diamond City Radio - Lynda Carter - Train Train",
 },
 {
 url: "https://soundcloud.com/brickarooni/lego-island-jail-theme",
@@ -1786,8 +1766,8 @@ url: "https://soundcloud.com/3xpandd0ng/introducing-pikuniku-trailer-1",
 answer: "Pikuniku - Introducing Pikuniku",
 },
 {
-url: "https://soundcloud.com/cosette-kamin-325535106/nancy-drew-sea-of-darkness-1",
-answer: "Nancy Drew: Sea of Darkness - Proud People",
+url: "https://soundcloud.com/mars_fm/elton-britt-uranium-fever?in=dylan-kyle-380813602/sets/fallout-4-diamond-city-radio",
+answer: "Fallout IV Diamond City Radio - Elton Britt - Uranium Fever",
 },
 {
 url: "https://soundcloud.com/robotic-duck/swing",
